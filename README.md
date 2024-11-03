@@ -3,6 +3,17 @@
 ### Abstract
 This project report analyzes the sales performance of Incubator HubStore , which operates across four regions: North, South, East, and West. The store sells six product categories, each with distinct demand patterns. The data covers sales performance regional performance and contribution, product-wise revenue, and highlight insights for sales trends, patterns and opportunities for growth.
 
+
+### Objectives
+- Retrieve the total sales for each product category. 
+- Find the number of sales transactions in each region. 
+- Determine the highest-selling product by total sales value. 
+- Calculate total revenue per product. 
+- Calculate monthly sales totals for the current year. 
+- Determine the top 5 customers by total purchase amount. 
+- calculate the percentage of total sales contributed by each region. 
+- Identify products with no sales in the last quarte
+
 ### Data Content
 The data set contains the following field:
 - OrderId: The Unique identifier of a particular product.
@@ -27,5 +38,40 @@ The data set contains the following field:
 - Data Cleaning: Checked for speeling error, removed duplicates and ensure there are no missing values to ensure accurate analysis
 
 - Data Transformation:
-  1. Added a new column (revenue) to 
+1. Added a new column to get revenue by multiplying the quantity of unit sold by price
+2. Year: Extracted the year from the order date column 
+3. Month: Extracted the month from the order date to a new column using the text function
+
+
+### Tools Used
+ 
+- Microsoft Excel: Used for data cleaning and preprocessing.
+
+- Microsoft SQL Server: Used for generating insights by writing queries.
+
+- PowerBi: Used for analysis, visualization, and creating interactive dashboards.
+
+  ### Dashboard
+
+
+
+  ### Insights
+#### Individual Regional Analysis
+- South Region: Across all 4 regions with the store operates, the South Region has the highest revenue contribution of $927,820 with a percentage level of 44.16%. The product driving this sale is the "Shoe" product generating a revenue of $567,300. This represents that that there is a high demand and sale of shoe within the region. 
+ 
+- East Region: A total revenue of $485,925 was generated within the east regions with percentage of 23.13%.  The contributing products are Shirts with a total of 237,600, Jackets-103,950, hats-107,105 and shoes with a revenue of 37,200.
+
+- North Region: The North Region contributed a total revenue of $387,000 with a percentage level of 18.42%. The top selling product in this region is Shirt which a revenue of $248,000 was generated.
+
+- West Region: This region contributed the lowest revenue of $300,345 to the store wth the percentage level as 14.29%. It is also has the lowest revenue generated for the sale of Shoe with an income of $29,880. However, the rapid increase in the sales of 'Hat'contributed a large portion of the income of $174,300 within in region
+
+#### Product Analysis
+
+The Leading products which contributed the highest revenue to the store is the 'SHOE' Product. A total of 1,978 quantity of shoe was sold with a revenue of $613,380. However, there was no sale of Shoe in the North Region. Following closely with a sum of $485,600 and the quantiy of 1,487 sold is the SHIRT product. This product was sold only in the East and West Region. The HAT product contributed a sum of $316,195 to the store and the total quantity of hats sold is 1,991 which is the highest product sold by quantity. This was sold in the West, North and East Region.
+
+The 4th product 
+
+
+  
+
   
