@@ -112,7 +112,7 @@ A customer bonus or discount can be given to these customers to acknowledge thei
 
 ### Addtional resources
 
- Find here link to the SQL Queries used to explore the data. 
+ Find here file to the SQL Queries used to explore the data. 
  [Uploading SQLLITA SALES.sql…]() 
 
   
