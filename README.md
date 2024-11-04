@@ -102,9 +102,17 @@ A customer bonus or discount can be given to these customers to acknowledge thei
 
 ![Current year analysis](https://github.com/user-attachments/assets/2e224c3a-9dfd-41e5-94ec-683f31e2d260)
 
+
 ![Revenue by Month](https://github.com/user-attachments/assets/1763c7f0-1f33-4d47-af63-b86788dc9a6b)
+
 
 ![Sales year comparison](https://github.com/user-attachments/assets/0dfe11dc-407c-4181-87ce-1632bd85d090)
 
+
+
+### Addtional resources
+
+ Find here link to the SQL Queries used to explore the data. 
+ [Uploading SQLLITA SALES.sql…]() 
 
   
