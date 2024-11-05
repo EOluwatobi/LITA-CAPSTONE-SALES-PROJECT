@@ -124,7 +124,7 @@ Top 5 customers
  Customers with ID.1496, 1497, 1498, 1499 and 1500 are the top 5 customers who patronize the store more. There is a corresponding location and product preference for the customers as they are from the South region and the SHOE product being the highest purchase from them all.
 A customer bonus or discount can be given to these customers to acknowledge their patronage with the store to foster more relationship and also encourage these customers to continue patronizing the store and this will improve sales within the business.
 
-#### Monthly and Year Analysis
+#### Monthly and Yearly Analysis
 
 ![Current year analysis](https://github.com/user-attachments/assets/2e224c3a-9dfd-41e5-94ec-683f31e2d260)
 
@@ -134,11 +134,11 @@ A customer bonus or discount can be given to these customers to acknowledge thei
 
 ![Sales year comparison](https://github.com/user-attachments/assets/0dfe11dc-407c-4181-87ce-1632bd85d090)
 
-
+The cumulative sales revenue generated from year 2023(January - December) generated from the sales of products across yhe 4 regions which the store operates is $1,103,300 while for the year 2024( January - July) is $995
 
 ### Conclusion and Recommendation
 
-
+There is a noticable 
 ### Addtional resources
 
  Find here file to the SQL Queries used to explore the data. 
