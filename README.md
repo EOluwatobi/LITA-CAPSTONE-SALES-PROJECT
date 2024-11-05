@@ -134,11 +134,14 @@ A customer bonus or discount can be given to these customers to acknowledge thei
 
 ![Sales year comparison](https://github.com/user-attachments/assets/0dfe11dc-407c-4181-87ce-1632bd85d090)
 
-The cumulative sales revenue generated from year 2023(January - December) generated from the sales of products across yhe 4 regions which the store operates is $1,103,300 while for the year 2024( January - July) is $995
+- The cumulative sales revenue generated from year 2023(January - December) generated from the sales of products across yhe 4 regions which the store operates is $1,105,330 while for the year 2024( January - July) is $995,750
+
+- 
 
 ### Conclusion and Recommendation
 
-There is a noticable 
+There is a noticable market revenue from the month of February in 2023/2014
+
 ### Addtional resources
 
  Find here file to the SQL Queries used to explore the data. 
