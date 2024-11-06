@@ -4,21 +4,11 @@
 
 [Data Content](data-content)
 
-[Basic Statistics](basic-statistics)
 
-[Research Methodology](research-methodology)
 
-[Tools Used](tools-used)
 
-[Explorative Data Analysis](explorative-data-analysis)
 
-[Dashboard](dashboard)
 
-[Insights](insights)
-
-[Conclusion and Recommendation](conclusion-and-recommendation)
-
-[Additional Resources](additional-resources)
 
 
 ### Abstract
