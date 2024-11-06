@@ -4,7 +4,7 @@
 
 [Data Content](#data-content)
 
-[Basic Statistics](#basic-statics)
+[Basic Statistics](#basic-statistics)
 
 [Research Methodology](#research-methodology)
 
@@ -126,6 +126,7 @@ A customer bonus or discount can be given to these customers to acknowledge thei
 
 #### Monthly and Yearly Analysis
 
+![Screenshot 2024-11-06 071651](https://github.com/user-attachments/assets/bdb132b1-3e8e-4eab-9c5d-930e99b737fb)
 
 
 ![Current year analysis](https://github.com/user-attachments/assets/2e224c3a-9dfd-41e5-94ec-683f31e2d260)
@@ -137,15 +138,16 @@ A customer bonus or discount can be given to these customers to acknowledge thei
 ![Sales year comparison](https://github.com/user-attachments/assets/0dfe11dc-407c-4181-87ce-1632bd85d090)
 
 The cumulative sales revenue generated from year 2023(January - December) generated from the sales of products across the 4 regions which the store operates is $1,105,330 while for the year 2024( January - July) is $995,750.
-From the trend of sales, the Month of February contributed the highest revenue of $546,300 at a percentage level of 26%. However, there is a noticeable low revenue turnover for the Month of September in the year 2023 with a percentage level of 1.65%.  
+From the trend of sales, the Month of February contributed the highest revenue of $546,300 at a percentage level of 26%. However, there is a noticeable low revenue turnover of $34.720 for the Month of September in the year 2023 with a percentage level of 1.65% and a revenue of $37.200 at a percentage level of 3.74% in the Month of July 2024.
 
 
 ### Conclusion and Recommendation
 
-There is a noticable rise in the demand and sales of the product SHOE in the South region, the SHIRT product in the East and North Region respectively, hence, marketing campaign market and offer discounted prices be conducted in the region to ensure customer satisfaction and also drive sales. Target the highest selling product per month across regions to understand the customers needs and make available these product to improve revenue genration. 
+There is a noticable rise in the demand and sales of the product SHOE in the South region, the SHIRT product in the East and North Region respectively, hence, marketing campaign market and offer discounted prices be conducted in the region to ensure customer satisfaction and also drive sales. Target the highest selling product per month across regions to understand the customers needs and make available these product to improve revenue generation. 
+Weather patterns can have a notable impact on monthly sales, therefore understanding this can influence the demand for seasonal and weather sensitive products. There is also a need to shift to online shopping during summer months(July - September) since there is increased rainfalls and storms and walkin shopping at this time may not seem possible in order to capture all sales in all conditions.
 
 
-### Addtional resources
+### Additional resources
 
  Find here file to the SQL Queries used to explore the data. 
  [Uploading SQLLITA SALES.sql…]() 
