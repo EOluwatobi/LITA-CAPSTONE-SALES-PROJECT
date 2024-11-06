@@ -151,6 +151,8 @@ From the trend of sales, the Month of February contributed the highest revenue o
 
 ### Additional resources
 
+Find here the cleaned dataset. [Lita Capstone Sales.csv](https://github.com/user-attachments/files/17644083/Lita.Capstone.Sales.csv)
+
  Find here file to the SQL Queries used to explore the data. 
  [Uploading SQLLITA SALES.sql…]() 
 
