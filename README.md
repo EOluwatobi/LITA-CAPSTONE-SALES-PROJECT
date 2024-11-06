@@ -111,17 +111,17 @@ Total Revenue by Products
 Top 1 product
 ![Top 1 product](https://github.com/user-attachments/assets/227b2e22-d4b3-4900-8440-4d30d1ef0d16)
 
-The Leading product which contributed the highest revenue to the store is the 'SHOE' Product. A total of 1,978 quantity of shoe was sold with a revenue of $613,380. However, there was no sale of Shoe in the North Region. Following closely with a sum of $485,600 and the quantiy of 1,487 sold is the SHIRT product. This product was sold only in the East and West Region. The HAT product contributed a sum of $316,195 to the store and the total quantity of hats sold is 1,991 which is the highest product sold by quantity. This was sold in the West, North and East Region.
+- The Leading product which contributed the highest revenue to the store is the 'SHOE' Product. A total of 1,978 quantity of shoe was sold with a revenue of $613,380. However, there was no sale of Shoe in the North Region. Following closely with a sum of $485,600 and the quantiy of 1,487 sold is the SHIRT product. This product was sold only in the East and West Region. The HAT product contributed a sum of $316,195 to the store and the total quantity of hats sold is 1,991 which is the highest product sold by quantity. This was sold in the West, North and East Region.
 
-The 4th selling product by revenue of $296,900 been generated and with a total quantity of 1,484 been sold  is GLOVES. The South and West region sold this product. The JACKET product which is being sold in the East and North Region contributed a revenue of $208,230 to the store sales and a total of 1,488 quanity of Jackets were sold. The last product which is the SOCKS product sold in total 1,484 quantities with a revenue sum of $180,785.
+- The 4th selling product by revenue of $296,900 been generated and with a total quantity of 1,484 been sold  is GLOVES. The South and West region sold this product. The JACKET product which is being sold in the East and North Region contributed a revenue of $208,230 to the store sales and a total of 1,488 quanity of Jackets were sold. The last product which is the SOCKS product sold in total 1,484 quantities with a revenue sum of $180,785.
 
-From our analysis, it was observed that not all Products were sold across all Regions. The maximum number of product a region sold is 4 against the six products which the store specializes in and this affected the store in generating more income. 
+- From our analysis, it was observed that not all Products were sold across all Regions. The maximum number of product a region sold is 4 against the six products which the store specializes in and this affected the store in generating more income. 
  
 #### Customer Analysis
 Top 5 customers
 ![Top 5 customers](https://github.com/user-attachments/assets/dd47e261-54de-44be-b801-c6612aa5aed2)
 
- Customers with ID.1496, 1497, 1498, 1499 and 1500 are the top 5 customers who patronize the store more. There is a corresponding location and product preference for the customers as they are from the South region and the SHOE product being the highest purchase from them all.
+Customers with ID.1496, 1497, 1498, 1499 and 1500 are the top 5 customers who patronize the store more. There is a corresponding location and product preference for the customers as they are from the South region and the SHOE product being the highest purchase from them all.
 A customer bonus or discount can be given to these customers to acknowledge their patronage with the store to foster more relationship and also encourage these customers to continue patronizing the store and this will improve sales within the business.
 
 #### Monthly and Yearly Analysis
@@ -141,10 +141,12 @@ The cumulative sales revenue generated from year 2023(January - December) genera
 From the trend of sales, the Month of February contributed the highest revenue of $546,300 at a percentage level of 26%. However, there is a noticeable low revenue turnover of $34.720 for the Month of September in the year 2023 with a percentage level of 1.65% and a revenue of $37.200 at a percentage level of 3.74% in the Month of July 2024.
 
 
+
 ### Conclusion and Recommendation
 
-There is a noticable rise in the demand and sales of the product SHOE in the South region, the SHIRT product in the East and North Region respectively, hence, marketing campaign market and offer discounted prices be conducted in the region to ensure customer satisfaction and also drive sales. Target the highest selling product per month across regions to understand the customers needs and make available these product to improve revenue generation. 
-Weather patterns can have a notable impact on monthly sales, therefore understanding this can influence the demand for seasonal and weather sensitive products. There is also a need to shift to online shopping during summer months(July - September) since there is increased rainfalls and storms and walkin shopping at this time may not seem possible in order to capture all sales in all conditions.
+- There is a noticable rise in the demand and sales of the product SHOE in the South region, the SHIRT product in the East and North Region respectively, hence, marketing campaign market and offer discounted prices be conducted in the region to ensure customer satisfaction and also drive sales. Target the highest selling product per month across regions to understand the customers needs and make available these product to improve revenue generation. 
+- Weather patterns can have a notable impact on monthly sales, therefore understanding this can influence the demand for seasonal and weather sensitive products. There is also a need to shift to online shopping during summer months(July - September) since there is increased rainfalls and storms and walkin shopping at this time may not seem possible in order to capture all sales in all conditions.
+
 
 
 ### Additional resources
